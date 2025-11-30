@@ -328,13 +328,13 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👥 Auteurs
 
-- **Votre Nom** - *Développeur principal* - [Votre GitHub](https://github.com/Nouha920)
+- **Nouha Belwaer** - *Développeur principal* - [Nouha920](https://github.com/Nouha920)
 
 ## 📞 Support
 
 Pour toute question ou problème :
 
-- 📧 Email : votre.email@example.com
+- 📧 Email : nouhabelwaer82@gmail.com
 - 🐛 Issues : [GitHub Issues](https://github.com/Nouha920/skincare-site/issues)
 
 ## 🙏 Remerciements
